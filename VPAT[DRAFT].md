@@ -12,7 +12,7 @@
 
 **Notes:** vrecord is a Free and Open-Source Software (FOSS) tool maintained by the Open Source committee of the Association of Moving Image Archivists (amiaopensource).
 
-**Evaluation Methods Used:** Inspection of publicly available GitHub repository documentation, README, and source code at https://github.com/amiaopensource/vrecord. No hands-on testing, automated scanning, or assistive technology testing was performed.
+**Evaluation Methods Used:** To date, inspection of publicly available GitHub repository documentation, README, and source code at https://github.com/amiaopensource/vrecord. No hands-on testing, automated scanning, or assistive technology testing was performed.
 
 ---
 
