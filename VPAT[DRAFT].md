@@ -1,4 +1,4 @@
-# vrecord Accessibility Conformance Report
+# vrecord Accessibility Conformance Report [DRAFT]
 **Revised Section 508 Edition**
 *(Based on VPAT® Version 2.5Rev)*
 
